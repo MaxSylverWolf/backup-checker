@@ -1,0 +1,21 @@
+2017-07-27 14:20:27: Usługa została zatrzymana.
+2017-07-27 14:20:59: Wznowienie Scheduler'a.
+2017-07-27 14:20:59: Inicjalizacja usługi.
+2017-07-27 14:20:59: Usługa została uruchomiona.
+2017-07-27 14:26:30: Usługa została zatrzymana.
+2017-07-27 14:27:00: Wznowienie Scheduler'a.
+2017-07-27 14:27:00: Inicjalizacja usługi.
+2017-07-27 14:27:00: Usługa została uruchomiona.
+2017-07-27 14:28:00: Plik bak o nazwie: C:\\kopie\\raport20170726.bak istnieje z 20170726
+2017-07-27 14:28:00: Zawartosc pliku: 
+2017-07-27 14:28:00: Wyslano email
+2017-07-27 14:28:00: Zakończenie dzisiejszego raportu
+2017-07-27 14:29:23: Usługa została zatrzymana.
+2017-07-27 14:36:06: Wznowienie Scheduler'a.
+2017-07-27 14:36:06: Inicjalizacja usługi.
+2017-07-27 14:36:06: Usługa została uruchomiona.
+2017-07-27 14:37:00: Plik bak o nazwie: C:\\kopie\\raport20170726.bak istnieje z 20170726
+2017-07-27 14:37:00: Zawartosc pliku: 
+2017-07-27 14:37:00: Wyslano email
+2017-07-27 14:37:00: Zakończenie dzisiejszego raportu
+2017-07-27 14:37:31: Usługa została zatrzymana.

@@ -1,0 +1,24 @@
+﻿<?xml version="1.0" encoding="utf-8" ?>
+<configuration>
+    <startup> 
+        <supportedRuntime version="v4.0" sku=".NETFramework,Version=v4.5.2" />
+    </startup>
+  <appSettings>
+    <!-- Dominika -->
+	<!-- Usun "(clean)" z nazwy pliku po wprowadzeniu wartosci -->
+    <add key="StartTime" value="00:00"/>
+    <add key="callDuration" value="2"/>  <!-- nie ruszaj! -->
+    <add key="CallType" value="1"/>  <!-- nie ruszaj! -->
+    <add key="loginEmail" value="adres_email_wysylajacy_maila"/>
+    <add key="passwordEmail" value="haslo_emaila_wysylajacego"/>
+	<!-- Adresy wprowadzaj po sredniku! -->
+    <add key="receiverEmail" value="przykladowyadres@com.pl;przykladowyadres@com"/>
+	<add key="adminEmail" value="jeden_adres_administratora"/>
+    <add key="host" value="host_serwera_pocztowego"/>
+    <add key="port" value="port_serwera_smtp"/>
+	<!-- Sciezki do przeszukiwania plikow wprowadzaj po sredniku! -->
+    <add key="filefolder" value="C:\\przykladowy\\;C:\\przykladowy2"/>
+	<!-- Folder przechowujacy logi serwera, nazwa i sciezka dowolna -->
+    <add key="logFolder" value="C:\\LogFile.txt"/>
+  </appSettings>
+</configuration>

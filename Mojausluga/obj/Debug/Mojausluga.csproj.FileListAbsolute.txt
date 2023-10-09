@@ -1,0 +1,48 @@
+c:\users\szkolenia\documents\visual studio 2015\Projects\Mojausluga\Mojausluga\bin\Debug\Mojausluga.exe.config
+c:\users\szkolenia\documents\visual studio 2015\Projects\Mojausluga\Mojausluga\bin\Debug\Mojausluga.exe
+c:\users\szkolenia\documents\visual studio 2015\Projects\Mojausluga\Mojausluga\bin\Debug\Mojausluga.pdb
+c:\users\szkolenia\documents\visual studio 2015\Projects\Mojausluga\Mojausluga\obj\Debug\Mojausluga.ProjectInstaller.resources
+c:\users\szkolenia\documents\visual studio 2015\Projects\Mojausluga\Mojausluga\obj\Debug\Mojausluga.csproj.GenerateResource.Cache
+c:\users\szkolenia\documents\visual studio 2015\Projects\Mojausluga\Mojausluga\obj\Debug\Mojausluga.exe
+c:\users\szkolenia\documents\visual studio 2015\Projects\Mojausluga\Mojausluga\obj\Debug\Mojausluga.pdb
+C:\Users\szkolenia\Documents\Visual Studio 2015\Projects\Mojausluga\Mojausluga\obj\Debug\Mojausluga.csprojResolveAssemblyReference.cache
+C:\usluga\backup-checker\Mojausluga\bin\Debug\Mojausluga.exe.config
+C:\usluga\backup-checker\Mojausluga\bin\Debug\Mojausluga.exe
+C:\usluga\backup-checker\Mojausluga\bin\Debug\Mojausluga.pdb
+C:\usluga\backup-checker\Mojausluga\obj\Debug\Mojausluga.csprojResolveAssemblyReference.cache
+C:\usluga\backup-checker\Mojausluga\obj\Debug\Mojausluga.ProjectInstaller.resources
+C:\usluga\backup-checker\Mojausluga\obj\Debug\Mojausluga.csproj.GenerateResource.Cache
+C:\usluga\backup-checker\Mojausluga\obj\Debug\Mojausluga.exe
+C:\usluga\backup-checker\Mojausluga\obj\Debug\Mojausluga.pdb
+E:\staz visual\usluga\backup-checker\Mojausluga\bin\Debug\Mojausluga.exe.config
+E:\staz visual\usluga\backup-checker\Mojausluga\obj\Debug\Mojausluga.exe
+E:\staz visual\usluga\backup-checker\Mojausluga\obj\Debug\Mojausluga.pdb
+E:\staz visual\usluga\backup-checker\Mojausluga\bin\Debug\Mojausluga.exe
+E:\staz visual\usluga\backup-checker\Mojausluga\bin\Debug\Mojausluga.pdb
+E:\staz visual\usluga\backup-checker\Mojausluga\bin\Debug\Common.Logging.Core.dll
+E:\staz visual\usluga\backup-checker\Mojausluga\bin\Debug\Common.Logging.dll
+E:\staz visual\usluga\backup-checker\Mojausluga\bin\Debug\Quartz.dll
+E:\staz visual\usluga\backup-checker\Mojausluga\bin\Debug\Common.Logging.pdb
+E:\staz visual\usluga\backup-checker\Mojausluga\bin\Debug\Common.Logging.xml
+E:\staz visual\usluga\backup-checker\Mojausluga\bin\Debug\Common.Logging.Core.pdb
+E:\staz visual\usluga\backup-checker\Mojausluga\bin\Debug\Common.Logging.Core.xml
+E:\staz visual\usluga\backup-checker\Mojausluga\bin\Debug\Quartz.pdb
+E:\staz visual\usluga\backup-checker\Mojausluga\bin\Debug\Quartz.xml
+E:\staz visual\usluga\backup-checker\Mojausluga\obj\Debug\Mojausluga.ProjectInstaller.resources
+E:\staz visual\usluga\backup-checker\Mojausluga\obj\Debug\Mojausluga.csproj.GenerateResource.Cache
+C:\Users\szkolenia\Desktop\staz usluga\staz visual\usluga\backup-checker\Mojausluga\bin\Debug\Mojausluga.exe.config
+C:\Users\szkolenia\Desktop\staz usluga\staz visual\usluga\backup-checker\Mojausluga\obj\Debug\Mojausluga.exe
+C:\Users\szkolenia\Desktop\staz usluga\staz visual\usluga\backup-checker\Mojausluga\obj\Debug\Mojausluga.pdb
+C:\Users\szkolenia\Desktop\staz usluga\staz visual\usluga\backup-checker\Mojausluga\bin\Debug\Mojausluga.exe
+C:\Users\szkolenia\Desktop\staz usluga\staz visual\usluga\backup-checker\Mojausluga\bin\Debug\Mojausluga.pdb
+C:\Users\szkolenia\Desktop\staz usluga\staz visual\usluga\backup-checker\Mojausluga\bin\Debug\Common.Logging.Core.dll
+C:\Users\szkolenia\Desktop\staz usluga\staz visual\usluga\backup-checker\Mojausluga\bin\Debug\Common.Logging.dll
+C:\Users\szkolenia\Desktop\staz usluga\staz visual\usluga\backup-checker\Mojausluga\bin\Debug\Quartz.dll
+C:\Users\szkolenia\Desktop\staz usluga\staz visual\usluga\backup-checker\Mojausluga\bin\Debug\Common.Logging.pdb
+C:\Users\szkolenia\Desktop\staz usluga\staz visual\usluga\backup-checker\Mojausluga\bin\Debug\Common.Logging.xml
+C:\Users\szkolenia\Desktop\staz usluga\staz visual\usluga\backup-checker\Mojausluga\bin\Debug\Common.Logging.Core.pdb
+C:\Users\szkolenia\Desktop\staz usluga\staz visual\usluga\backup-checker\Mojausluga\bin\Debug\Common.Logging.Core.xml
+C:\Users\szkolenia\Desktop\staz usluga\staz visual\usluga\backup-checker\Mojausluga\bin\Debug\Quartz.pdb
+C:\Users\szkolenia\Desktop\staz usluga\staz visual\usluga\backup-checker\Mojausluga\bin\Debug\Quartz.xml
+C:\Users\szkolenia\Desktop\staz usluga\staz visual\usluga\backup-checker\Mojausluga\obj\Debug\Mojausluga.ProjectInstaller.resources
+C:\Users\szkolenia\Desktop\staz usluga\staz visual\usluga\backup-checker\Mojausluga\obj\Debug\Mojausluga.csproj.GenerateResource.Cache
